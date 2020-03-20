@@ -21,5 +21,5 @@ Matlab 2019b
 
 cvx 2.2
 
-Intel i7-8750hq@2.0GHz+64GB
+Intel i7-8750@2.0GHz+64GB
 
