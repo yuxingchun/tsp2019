@@ -26,6 +26,9 @@ cvx_solver_settings('maxit',1);
 
 现在代码写的还是太乱，后面要改进一下，避免出现这么多函数。
 
+###所用杨老师代码
+使用了杨老师toeplitz矩阵的范德蒙德矩阵分解函数，VanDec.m 这里要修改最后的 phase（不存在这个函数）换成angle
+
 ### 所用环境 
 操作系统 Ubuntu 18.04
 
